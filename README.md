@@ -1,2 +1,2 @@
-# BSI Asset Repo
+# BSI Assets Repo
 
