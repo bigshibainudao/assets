@@ -2,6 +2,6 @@
   "id": 1,
   "data": [
 	{"name": "Big Shiba Inu Website", "description": "The first on-token decentralized autonomous organization (DAO) for Community, Development, and Marketing!", "link":"https://bigshibainu.com/"},
-  	{"name": "Let's go BSI", "description": false, "link":"https://twitter.com/BigShibaInu"}
+  	{"name": "Let's go BSI", "description": "Follow us on Twitter", "link":"https://twitter.com/BigShibaInu"}
   ]
 }
