@@ -3,7 +3,7 @@
   "data": [
 	{"name": "DEV UI", "description": "Let's go BSI!","link":"#"},
 	{"name": "TOKEN CONTRACT", "description": false,"link":"https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167"},
-	{"name": "DAO CONTRACT", "description": false,"link":"https://bscscan.com/token/0x313949095e4f9e3bea6957791c54e7f0dc3670de"},
-	{"name": "TREASURY CONTRACT", "description": false,"link":"https://etherscan.io/token/0x378c77c5379ca07bbb5b3506c08a1c769dec91c2"},
+	{"name": "DAO CONTRACT", "description": false,"link":"https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167"},
+	{"name": "TREASURY CONTRACT", "description": false,"link":"https://etherscan.io/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167"}
   ]
 }
